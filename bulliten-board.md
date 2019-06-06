@@ -1,18 +1,18 @@
 # Capstone Details
 
 ## Documents
-1. [Preliminary Concept](/concept.md)--Due Monday XX/XX, add your link to the instructor-provided spreadsheet
-1. [Product Plan](/product-plan.md)--Due Monday XX/XX, add your link to the instructor-provided spreadsheet
+1. [Preliminary Concept](/concept.md)--Due Friday 6/14, add your link to the instructor-provided spreadsheet
+1. [Product Plan](/product-plan.md)--Due Monday 6/24, add your link to the instructor-provided spreadsheet
 
 ## [Capstone Groups](/groups.md)
-**PM: [Instructor 1]**
+**PM: Dan**
 TBD
 
-**PM: [Instructor 2]**
+**PM: Dee**
 TBD
 
-**PM: [Instructor 3]**
+**PM: Chris**
 TBD
 
-**PM: [Instructor 4]**
+**PM: Devin**
 TBD
