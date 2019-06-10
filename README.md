@@ -16,13 +16,13 @@ Ada's collective wisdom gathered:
 - [Advice for Brainstorming](brainstorming.md)
 
 Bulliten board for schedules, important deadlines and PM assignments
-- [Check Here](a-class-details.md)
+- [Check Here](bulliten-board.md)
 
 Required Pre-Capstone Material:
 - [Capstone Concept Requirements](concept.md)
 - [Product Plan Requirements](product-plan.md)
 - [Picking a tech stack](tech-stacks.md)
-  - In class, we will do the [Tech Stacks Research Activity](tech-stacks-dc.md) together
+  - In class, we will do the [Tech Stacks Research Activity](tech-stack-research.md) together
 
 Required Capstone Material:
 - [Group Accountability](groups.md)
