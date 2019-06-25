@@ -1,4 +1,4 @@
-# Capstone Product Plan
+# Capstone Product Plan - Never Eat Alone
 
 ## Product Plan Components
 1. __Personal Learning Goals__: 
