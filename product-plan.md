@@ -1,8 +1,11 @@
 # Capstone Product Plan
-The second deliverable for the capstone is your product plan.
 
 ## Product Plan Components
-1. __Personal Learning Goals__: A list outlining the major things that you want to focus on learning in this project.
+1. __Personal Learning Goals__: 
+    1. Java
+    1. Software Design
+    1. MongoDB
+    1. AWS
 
 1. __Problem Statement__: A clear, concise statement describing the problem your project will solve. Re-use the problem statement from the concept write-up or update if you've made adjustments.
 
