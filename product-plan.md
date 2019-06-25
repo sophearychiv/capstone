@@ -3,14 +3,16 @@
 ## Product Plan Components
 1. __Personal Learning Goals__: 
     1. Java
+    1. React Native
     1. Software Design
     1. MongoDB
     1. AWS
 
-1. __Problem Statement__: A clear, concise statement describing the problem your project will solve. Re-use the problem statement from the concept write-up or update if you've made adjustments.
+1. __Problem Statement__: There are times when people would like to eat out but do not want to eat alone. They might not be able to find anyone to eat with, or they simply do not want to ask others who probably might not want to eat out. There are also people who want to expand their network by eating with someone they have never met. The app would solve this problem of finding an eating companion at a restuarant of the user's choice.
 
-1. __Market Research__: Outline the key insights from your research, including:
-    - your application’s competition - what alternatives are already out there (competing apps and/or non-app solutions)
+1. __Market Research__: 
+    - Competitors 
+        - http://foodfriends.net/en/
     - research from users on why these alternatives do not effectively address the problem.
     - differentiation: what makes your idea/product different
   
